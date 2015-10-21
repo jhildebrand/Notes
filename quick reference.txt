@@ -1,0 +1,27 @@
+Quick Reference to C# Syntax
+
+//single line comment
+
+/* 
+	multiline comment
+*/
+
+int x = 4;	//declare and initialize integer variable
+float f = 3.5f;	//declare and initialize float variable  
+string s = "name";	//declare and initialize string variable
+
+&&	//"and" in conditional statments
+||	//"or" in conditional statments
+
+if (condition){	
+	<body of if>
+}
+
+while (condition){
+	<body of while>
+}
+
+for (declare and initialize variable; condition; increment;){
+	<body of for>
+}
+
