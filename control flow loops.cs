@@ -78,7 +78,7 @@ if (money >= 6.50 && pizza == "yes") {
 
 {/*for Loops
 for (initializers; condition; iterators) {
-	statment;
+	statement;
 }
 */
 

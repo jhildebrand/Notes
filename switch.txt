@@ -1,0 +1,23 @@
+{/*Switch Statement
+
+int caseSwitch = 1;  //creates variable used in switch statement
+switch (caseSwitch)
+{
+    case 1:  //runs if variable from switch is 1
+        statement_1;
+        break;
+    case 2:	 //runs if variable from switch is 2
+        statement_2;
+        break;
+    default:  //runs if variable from switch is not defined by a case above
+        statement_default;
+        break;
+}
+
+//example
+Console.WriteLine("Enter 1 for pizza or 2 for calzone");
+Console.Read
+
+
+int num = Int32.Parse(<string from console>);
+//num is input string from console
